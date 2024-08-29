@@ -8,7 +8,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.actions.wheel_input import ScrollOrigin
 
 filename = "data"
-link = "https://www.google.com/maps/search/electrician+in+Chicago,+IL,+USA/@41.8336478,-87.8720473,11z/data=!3m1!4b1"
+link = "https://www.google.es/maps/search/inyeccion+plastico/@38.3813723,-0.572529,11z?hl=es&entry=ttu&g_ep=EgoyMDI0MDgyNy4wIKXMDSoASAFQAw%3D%3D"
 
 browser = webdriver.Chrome()
 record = []
